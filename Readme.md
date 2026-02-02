@@ -67,3 +67,10 @@ Smart Ride aims to solve these issues by providing an automated, subscription-ba
 - **User:** Subscribes to monthly pickup & drop service
 - **Driver:** Views assigned routes and passenger list
 - **Admin:** Manages users, drivers, routes, and subscriptions
+## Day 2 Progress – Database & Backend Setup ✅
+
+- MongoDB installed and connected
+- SmartRide database created
+- Collections designed
+- Relationships planned
+- Screenshots added for reference
