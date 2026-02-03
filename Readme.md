@@ -74,3 +74,7 @@ Smart Ride aims to solve these issues by providing an automated, subscription-ba
 - Collections designed
 - Relationships planned
 - Screenshots added for reference
+## Day 3 Progress
+- Backend initialized with Node.js & Express
+- MongoDB connected
+- User model & APIs created
