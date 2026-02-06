@@ -16,3 +16,5 @@ app.use("/api/users", require("./routes/userRoutes"));
 
 const PORT = 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+const ridePlanRoutes = require("./routes/ridePlan.routes");
+app.use("/api/rides", ridePlanRoutes);
